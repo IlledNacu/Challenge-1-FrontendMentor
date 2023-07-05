@@ -18,7 +18,7 @@ main{
     display:flex;
     justify-content: center;
     margin: 30px;
-    align-item:center;
+    align-items:center;
 }
 
 .attribution{
@@ -49,20 +49,21 @@ main{
 }
 
 .QR h3{
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     text-align: center;
-    margin:5%;
+    margin:1em;
     margin-top: 0;
+    margin-bottom: 1em;
 }
 
 .QR p{
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
     text-align: center;
-    margin:5%;
+    margin:2em;
     margin-top: 0;
-    margin-bottom: 15%;
+    margin-bottom: 3em;
 }
