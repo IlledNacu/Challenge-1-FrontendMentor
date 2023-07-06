@@ -31,6 +31,7 @@ main{
 
 .attribution a{
     color: hsl(220, 15%, 55%);
+    text-align: center;
 }
 
 .QR{
